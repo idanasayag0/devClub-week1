@@ -127,9 +127,12 @@ hr{
     margin-top: 5rem;
 }
 .skill {
+    padding-right: 12rem;
+    padding-left: 12rem;
     display: flex;
 }
 .skill img {
+    padding-left: 2rem;
     width: 200px;
     height: 100px;
 }
@@ -139,4 +142,6 @@ hr{
 .skill2 {
     display: flex;
     margin-top: 5rem;
+    padding-right: 15rem;
+    padding-left: 12rem;
 }
